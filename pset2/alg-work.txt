@@ -1,0 +1,30 @@
+Problem 2
+=========
+
+inputs: 
+
+init_balance = balance
+annualInterestRate
+
+alg:
+
+balance = init_balance
+monthly interest rate = a / 12.0
+unpaid = balance - monthly payment
+balance = unpaid + (unpaid * monthly interest rate)
+
+payment = 0
+payment_sum = 0
+
+while (balance > 0)
+    balance = init_balance
+    payment += 10
+    for month to 12
+        unpaid = balance - payment
+        balance = unpaid + (mnthly_intst_rate * unpaid)
+
+print 'Lowest Payment: ' + str(payment)
+
+output:
+
+lowest monthly payment that will pay off debt in under 1 year

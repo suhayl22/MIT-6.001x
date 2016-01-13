@@ -1,0 +1,253 @@
+CORRECT
+
+Test Case 1
+balance = 4213; annualInterestRate = 0.2; monthlyPaymentRate = 0.04
+Output:
+Month: 1
+Minimum monthly payment: 168.52
+Remaining balance: 4111.89
+Month: 2
+Minimum monthly payment: 164.48
+Remaining balance: 4013.2
+Month: 3
+Minimum monthly payment: 160.53
+Remaining balance: 3916.89
+Month: 4
+Minimum monthly payment: 156.68
+Remaining balance: 3822.88
+Month: 5
+Minimum monthly payment: 152.92
+Remaining balance: 3731.13
+Month: 6
+Minimum monthly payment: 149.25
+Remaining balance: 3641.58
+Month: 7
+Minimum monthly payment: 145.66
+Remaining balance: 3554.19
+Month: 8
+Minimum monthly payment: 142.17
+Remaining balance: 3468.89
+Month: 9
+Minimum monthly payment: 138.76
+Remaining balance: 3385.63
+Month: 10
+Minimum monthly payment: 135.43
+Remaining balance: 3304.38
+Month: 11
+Minimum monthly payment: 132.18
+Remaining balance: 3225.07
+Month: 12
+Minimum monthly payment: 129.0
+Remaining balance: 3147.67
+Total paid: 1775.55
+Remaining balance: 3147.67
+
+Test Case 2
+balance = 4842; annualInterestRate = 0.2; monthlyPaymentRate = 0.04
+Output:
+Month: 1
+Minimum monthly payment: 193.68
+Remaining balance: 4725.79
+Month: 2
+Minimum monthly payment: 189.03
+Remaining balance: 4612.37
+Month: 3
+Minimum monthly payment: 184.49
+Remaining balance: 4501.68
+Month: 4
+Minimum monthly payment: 180.07
+Remaining balance: 4393.64
+Month: 5
+Minimum monthly payment: 175.75
+Remaining balance: 4288.19
+Month: 6
+Minimum monthly payment: 171.53
+Remaining balance: 4185.27
+Month: 7
+Minimum monthly payment: 167.41
+Remaining balance: 4084.83
+Month: 8
+Minimum monthly payment: 163.39
+Remaining balance: 3986.79
+Month: 9
+Minimum monthly payment: 159.47
+Remaining balance: 3891.11
+Month: 10
+Minimum monthly payment: 155.64
+Remaining balance: 3797.72
+Month: 11
+Minimum monthly payment: 151.91
+Remaining balance: 3706.57
+Month: 12
+Minimum monthly payment: 148.26
+Remaining balance: 3617.62
+Total paid: 2040.64
+Remaining balance: 3617.62
+
+Randomized Test Case 1
+balance = 4918; annualInterestRate = 0.2; monthlyPaymentRate = 0.05
+Output:
+Month: 1
+Minimum monthly payment: 245.9
+Remaining balance: 4749.97
+Month: 2
+Minimum monthly payment: 237.5
+Remaining balance: 4587.68
+Month: 3
+Minimum monthly payment: 229.38
+Remaining balance: 4430.93
+Month: 4
+Minimum monthly payment: 221.55
+Remaining balance: 4279.54
+Month: 5
+Minimum monthly payment: 213.98
+Remaining balance: 4133.32
+Month: 6
+Minimum monthly payment: 206.67
+Remaining balance: 3992.1
+Month: 7
+Minimum monthly payment: 199.61
+Remaining balance: 3855.71
+Month: 8
+Minimum monthly payment: 192.79
+Remaining balance: 3723.97
+Month: 9
+Minimum monthly payment: 186.2
+Remaining balance: 3596.73
+Month: 10
+Minimum monthly payment: 179.84
+Remaining balance: 3473.84
+Month: 11
+Minimum monthly payment: 173.69
+Remaining balance: 3355.16
+Month: 12
+Minimum monthly payment: 167.76
+Remaining balance: 3240.52
+Total paid: 2454.85
+Remaining balance: 3240.52
+
+Randomized Test Case 2
+balance = 3391; annualInterestRate = 0.18; monthlyPaymentRate = 0.04
+Output:
+Month: 1
+Minimum monthly payment: 135.64
+Remaining balance: 3304.19
+Month: 2
+Minimum monthly payment: 132.17
+Remaining balance: 3219.6
+Month: 3
+Minimum monthly payment: 128.78
+Remaining balance: 3137.18
+Month: 4
+Minimum monthly payment: 125.49
+Remaining balance: 3056.87
+Month: 5
+Minimum monthly payment: 122.27
+Remaining balance: 2978.61
+Month: 6
+Minimum monthly payment: 119.14
+Remaining balance: 2902.36
+Month: 7
+Minimum monthly payment: 116.09
+Remaining balance: 2828.06
+Month: 8
+Minimum monthly payment: 113.12
+Remaining balance: 2755.66
+Month: 9
+Minimum monthly payment: 110.23
+Remaining balance: 2685.12
+Month: 10
+Minimum monthly payment: 107.4
+Remaining balance: 2616.38
+Month: 11
+Minimum monthly payment: 104.66
+Remaining balance: 2549.4
+Month: 12
+Minimum monthly payment: 101.98
+Remaining balance: 2484.13
+Total paid: 1416.98
+Remaining balance: 2484.13
+
+Randomized Test Case 3
+balance = 4158; annualInterestRate = 0.22; monthlyPaymentRate = 0.04
+Output:
+Month: 1
+Minimum monthly payment: 166.32
+Remaining balance: 4064.86
+Month: 2
+Minimum monthly payment: 162.59
+Remaining balance: 3973.81
+Month: 3
+Minimum monthly payment: 158.95
+Remaining balance: 3884.79
+Month: 4
+Minimum monthly payment: 155.39
+Remaining balance: 3797.78
+Month: 5
+Minimum monthly payment: 151.91
+Remaining balance: 3712.71
+Month: 6
+Minimum monthly payment: 148.51
+Remaining balance: 3629.54
+Month: 7
+Minimum monthly payment: 145.18
+Remaining balance: 3548.24
+Month: 8
+Minimum monthly payment: 141.93
+Remaining balance: 3468.76
+Month: 9
+Minimum monthly payment: 138.75
+Remaining balance: 3391.06
+Month: 10
+Minimum monthly payment: 135.64
+Remaining balance: 3315.1
+Month: 11
+Minimum monthly payment: 132.6
+Remaining balance: 3240.84
+Month: 12
+Minimum monthly payment: 129.63
+Remaining balance: 3168.25
+Total paid: 1767.42
+Remaining balance: 3168.25
+
+Randomized Test Case 4
+balance = 4891; annualInterestRate = 0.18; monthlyPaymentRate = 0.04
+Output:
+Month: 1
+Minimum monthly payment: 195.64
+Remaining balance: 4765.79
+Month: 2
+Minimum monthly payment: 190.63
+Remaining balance: 4643.79
+Month: 3
+Minimum monthly payment: 185.75
+Remaining balance: 4524.91
+Month: 4
+Minimum monthly payment: 181.0
+Remaining balance: 4409.07
+Month: 5
+Minimum monthly payment: 176.36
+Remaining balance: 4296.2
+Month: 6
+Minimum monthly payment: 171.85
+Remaining balance: 4186.21
+Month: 7
+Minimum monthly payment: 167.45
+Remaining balance: 4079.05
+Month: 8
+Minimum monthly payment: 163.16
+Remaining balance: 3974.62
+Month: 9
+Minimum monthly payment: 158.98
+Remaining balance: 3872.87
+Month: 10
+Minimum monthly payment: 154.91
+Remaining balance: 3773.73
+Month: 11
+Minimum monthly payment: 150.95
+Remaining balance: 3677.12
+Month: 12
+Minimum monthly payment: 147.08
+Remaining balance: 3582.98
+Total paid: 2043.77
+Remaining balance: 3582.98

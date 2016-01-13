@@ -1,0 +1,79 @@
+s = 'qopzuazkdxaa'
+Output:
+Longest substring in alphabetical order is: opz
+
+s = 'shmohictupktqghsdes'
+Output:
+Longest substring in alphabetical order is: hmo
+
+s = 'nlujdpfqwynjwelubfjzf'
+Output:
+Longest substring in alphabetical order is: fqwy
+
+s = 'wlyjyzywxentdf'
+Output:
+Longest substring in alphabetical order is: jyz
+
+s = 'mtvhmhmyedykcuaygvtd'
+Output:
+Longest substring in alphabetical order is: mtv
+
+s = 'octxalidkcpkllhlpvf'
+Output:
+Longest substring in alphabetical order is: hlpv
+
+s = 'blcmepcnbgde'
+Output:
+Longest substring in alphabetical order is: bl
+
+s = 'abcdefghijklmnopqrstuvwxyz'
+Output:
+Longest substring in alphabetical order is: abcdefghijklmnopqrstuvwxyz
+
+s = 'iwvgpsrsrtb'
+Output:
+Longest substring in alphabetical order is: gps
+
+s = 'fkcvitdbedoj'
+Output:
+Longest substring in alphabetical order is: fk
+
+s = 'qzmmlfivpsivrk'
+Output:
+Longest substring in alphabetical order is: fiv
+
+s = 'zyxwvutsrqponmlkjihgfedcba'
+Output:
+Longest substring in alphabetical order is: z
+
+s = 'pnixlwlsyfpg'
+Output:
+Longest substring in alphabetical order is: lsy
+
+s = 'anzizsqs'
+Output:
+Longest substring in alphabetical order is: anz
+
+s = 'ulsdeiftwyvsgjvzovoj'
+Output:
+Longest substring in alphabetical order is: ftwy
+
+s = 'ocqnwfadhrrludvnqp'
+Output:
+Longest substring in alphabetical order is: adhrr
+
+s = 'kvbauuvx'
+Output:
+Longest substring in alphabetical order is: auuvx
+
+s = 'qngvnepkgkxa'
+Output:
+Longest substring in alphabetical order is: gkx
+
+s = 'ksjuwlgysgryjjjuyjgpzqd'
+Output:
+Longest substring in alphabetical order is: jjjuy
+
+s = 'vbvvmdsgfjbbwullirxmeqgm'
+Output:
+Longest substring in alphabetical order is: bvv

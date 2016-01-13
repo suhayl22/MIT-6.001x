@@ -1,0 +1,61 @@
+CORRECT
+
+Test Case 1
+balance = 320000; annualInterestRate = 0.2
+Output:
+Lowest Payment: 29157.09
+
+Test Case 2
+balance = 999999; annualInterestRate = 0.18
+Output:
+Lowest Payment: 90325.03
+
+Randomized Test Case 1
+balance = 71001; annualInterestRate = 0.21
+Output:
+Lowest Payment: 6497.47
+
+Randomized Test Case 2
+balance = 387444; annualInterestRate = 0.15
+Output:
+Lowest Payment: 34538.31
+
+Randomized Test Case 3
+balance = 284047; annualInterestRate = 0.22
+Output:
+Lowest Payment: 26106.58
+
+Randomized Test Case 4
+balance = 176778; annualInterestRate = 0.15
+Output:
+Lowest Payment: 15758.7
+
+Randomized Test Case 5
+balance = 487461; annualInterestRate = 0.2
+Output:
+Lowest Payment: 44415.45
+
+Randomized Test Case 6
+balance = 398336; annualInterestRate = 0.21
+Output:
+Lowest Payment: 36452.65
+
+Randomized Test Case 7
+balance = 216075; annualInterestRate = 0.22
+Output:
+Lowest Payment: 19859.32
+
+Randomized Test Case 8
+balance = 469668; annualInterestRate = 0.15
+Output:
+Lowest Payment: 41868.09
+
+Randomized Test Case 9
+balance = 23895; annualInterestRate = 0.22
+Output:
+Lowest Payment: 2196.17
+
+Randomized Test Case 10
+balance = 224718; annualInterestRate = 0.15
+Output:
+Lowest Payment: 20032.26

@@ -1,0 +1,120 @@
+Function call: radiationExposure(0, 5, 1)
+Cobalt-60.Half-life: 5.27 years. Initial Activity: 10 MBq.
+Find total exposure from years 0 - 5.
+def f(x):
+	import math
+	return 10*math.e**(math.log(0.5)/5.27 * x)
+Output:
+39.10318784326239
+Function call: radiationExposure(5, 11, 1)
+Cobalt-60.Half-life: 5.27 years. Initial Activity: 10 MBq.
+Find total exposure from years 5 - 11.
+def f(x):
+	import math
+	return 10*math.e**(math.log(0.5)/5.27 * x)
+Output:
+22.94241041057671
+Function call: radiationExposure(12, 16, 1)
+Cobalt-60.Half-life: 5.27 years. Initial Activity: 10 MBq.
+Find total exposure from years 12 - 16.
+def f(x):
+	import math
+	return 10*math.e**(math.log(0.5)/5.27 * x)
+Output:
+6.848645835538622
+Function call: radiationExposure(0, 4, 0.25)
+Radium-224.Half-life: 3.66 days. Initial Activity: 400 MBq.
+Find total exposure from days 0 - 4.
+def f(x):
+	import math
+	return 400*math.e**(math.log(0.5)/3.66 * x)
+Output:
+1148.6783342153556
+Function call: radiationExposure(5, 10, 0.25)
+Radium-224.Half-life: 3.66 days. Initial Activity: 400 MBq.
+Find total exposure from days 5 - 10.
+def f(x):
+	import math
+	return 400*math.e**(math.log(0.5)/3.66 * x)
+Output:
+513.4662018628549
+Function call: radiationExposure(0, 3, 0.1)
+Uranium-240.Half-life: 14.1 hours. Initial Activity: 200 MBq.
+Find total exposure from hours 0 - 3.
+def f(x):
+	import math
+	return 200*math.e**(math.log(0.5)/14.1 * x)
+Output:
+559.2259707824549
+Function call: radiationExposure(14, 20, 0.1)
+Uranium-240.Half-life: 14.1 hours. Initial Activity: 200 MBq.
+Find total exposure from hours 14 - 20.
+def f(x):
+	import math
+	return 200*math.e**(math.log(0.5)/14.1 * x)
+Output:
+523.4527522388149
+Function call: radiationExposure(48, 72, 0.4)
+Uranium-240.Half-life: 14.1 hours. Initial Activity: 200 MBq.
+Find total exposure from hours 48 - 72.
+def f(x):
+	import math
+	return 200*math.e**(math.log(0.5)/14.1 * x)
+Output:
+268.79947333082856
+Function call: radiationExposure(72, 96, 0.4)
+Uranium-240.Half-life: 14.1 hours. Initial Activity: 200 MBq.
+Find total exposure from hours 72 - 96.
+def f(x):
+	import math
+	return 200*math.e**(math.log(0.5)/14.1 * x)
+Output:
+82.61081970598813
+Function call: radiationExposure(0, 40, 1)
+Cesium-138.Half-life: 32.2 minutes. Initial Activity: 150 MBq.
+Find total exposure from minutes 0 - 40.
+def f(x):
+	import math
+	return 150*math.e**(math.log(0.5)/32.2 * x)
+Output:
+4066.0849302266774
+Function call: radiationExposure(100, 400, 4)
+Cesium-138.Half-life: 32.2 minutes. Initial Activity: 150 MBq.
+Find total exposure from minutes 100 - 400.
+def f(x):
+	import math
+	return 150*math.e**(math.log(0.5)/32.2 * x)
+Output:
+843.5828023451531
+Function call: radiationExposure(1000, 4000, 15)
+Cesium-138.Half-life: 32.2 minutes. Initial Activity: 150 MBq.
+Find total exposure from minutes 1000 - 4000.
+def f(x):
+	import math
+	return 150*math.e**(math.log(0.5)/32.2 * x)
+Output:
+3.6525375905841067e-06
+Function call: radiationExposure(0, 60, 0.5)
+Radon-220.Half-life: 55.6 seconds. Initial Activity: 60 MBq.
+Find total exposure from seconds 0 - 60.
+def f(x):
+	import math
+	return 60*math.e**(math.log(0.5)/55.6 * x)
+Output:
+2542.768831286683
+Function call: radiationExposure(60, 120, 0.5)
+Radon-220.Half-life: 55.6 seconds. Initial Activity: 60 MBq.
+Find total exposure from seconds 60 - 120.
+def f(x):
+	import math
+	return 60*math.e**(math.log(0.5)/55.6 * x)
+Output:
+1203.5229215597114
+Function call: radiationExposure(600, 1200, 5)
+Radon-220.Half-life: 55.6 seconds. Initial Activity: 60 MBq.
+Find total exposure from seconds 600 - 1200.
+def f(x):
+	import math
+	return 60*math.e**(math.log(0.5)/55.6 * x)
+Output:
+2.799597134148232

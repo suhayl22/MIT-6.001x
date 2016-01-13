@@ -1,0 +1,238 @@
+Function call: hangman(zzz)
+Testing if we can correctly fill in repeat letters and handle capitalized input ...
+Output:
+Welcome to hangman!
+I am thiking of a word 3 letters long.
+-----------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: Z
+Good guess: zzz
+--------------
+Congratulations, you won!
+None
+Function call: hangman(y)
+Testing if we handle repeat incorrect guesses...
+Output:
+Welcome to hangman!
+I am thiking of a word 1 letters long.
+-----------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: z
+Oops! That letter is not in my word: _ 
+-----------------
+You have 7 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxy
+Please guess a letter: z
+Oops! You've already guessed that letter: _ 
+-----------------
+You have 7 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxy
+Please guess a letter: z
+Oops! You've already guessed that letter: _ 
+-----------------
+You have 7 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxy
+Please guess a letter: z
+Oops! You've already guessed that letter: _ 
+-----------------
+You have 7 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxy
+Please guess a letter: y
+Good guess: y
+--------------
+Congratulations, you won!
+None
+Function call: hangman(camel)
+Testing if we can correctly guess a word...
+Output:
+Welcome to hangman!
+I am thiking of a word 5 letters long.
+-----------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: a
+Good guess: _ a_ _ _ 
+-----------------
+You have 8 guesses left.
+Available letters: bcdefghijklmnopqrstuvwxyz
+Please guess a letter: e
+Good guess: _ a_ e_ 
+-----------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: i
+Oops! That letter is not in my word: _ a_ e_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghjklmnopqrstuvwxyz
+Please guess a letter: m
+Good guess: _ ame_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghjklnopqrstuvwxyz
+Please guess a letter: n
+Oops! That letter is not in my word: _ ame_ 
+-----------------
+You have 6 guesses left.
+Available letters: bcdfghjklopqrstuvwxyz
+Please guess a letter: l
+Good guess: _ amel
+-----------------
+You have 6 guesses left.
+Available letters: bcdfghjkopqrstuvwxyz
+Please guess a letter: k
+Oops! That letter is not in my word: _ amel
+-----------------
+You have 5 guesses left.
+Available letters: bcdfghjopqrstuvwxyz
+Please guess a letter: c
+Good guess: camel
+--------------
+Congratulations, you won!
+None
+Function call: hangman(guanabana)
+Testing if we run out of guesses...
+Output:
+Welcome to hangman!
+I am thiking of a word 9 letters long.
+-----------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: E
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 7 guesses left.
+Available letters: abcdfghijklmnopqrstuvwxyz
+Please guess a letter: O
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 6 guesses left.
+Available letters: abcdfghijklmnpqrstuvwxyz
+Please guess a letter: M
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 5 guesses left.
+Available letters: abcdfghijklnpqrstuvwxyz
+Please guess a letter: L
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 4 guesses left.
+Available letters: abcdfghijknpqrstuvwxyz
+Please guess a letter: R
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 3 guesses left.
+Available letters: abcdfghijknpqstuvwxyz
+Please guess a letter: S
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 2 guesses left.
+Available letters: abcdfghijknpqtuvwxyz
+Please guess a letter: T
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 1 guesses left.
+Available letters: abcdfghijknpquvwxyz
+Please guess a letter: Z
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ 
+--------------
+Sorry, you ran out of guesses.  The word was guanabana
+None
+Function call: hangman(senselessness)
+Testing if we can correctly fill in multiple letters...
+Output:
+Welcome to hangman!
+I am thiking of a word 13 letters long.
+-----------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: a
+Oops! That letter is not in my word: _ _ _ _ _ _ _ _ _ _ _ _ _ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdefghijklmnopqrstuvwxyz
+Please guess a letter: e
+Good guess: _ e_ _ e_ e_ _ _ e_ _ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: s
+Good guess: se_ se_ ess_ ess
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrtuvwxyz
+Please guess a letter: n
+Good guess: sense_ essness
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmopqrtuvwxyz
+Please guess a letter: l
+Good guess: senselessness
+--------------
+Congratulations, you won!
+None
+Function call: hangman(cheetah)
+Testing if we correctly handle repeat guesses...
+Output:
+Welcome to hangman!
+I am thiking of a word 7 letters long.
+-----------------
+You have 8 guesses left.
+Available letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: A
+Good guess: _ _ _ _ _ a_ 
+-----------------
+You have 8 guesses left.
+Available letters: bcdefghijklmnopqrstuvwxyz
+Please guess a letter: e
+Good guess: _ _ ee_ a_ 
+-----------------
+You have 8 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: z
+Oops! That letter is not in my word: _ _ ee_ a_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrstuvwxy
+Please guess a letter: t
+Good guess: _ _ eeta_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrsuvwxy
+Please guess a letter: a
+Oops! You've already guessed that letter: _ _ eeta_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrsuvwxy
+Please guess a letter: E
+Oops! You've already guessed that letter: _ _ eeta_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrsuvwxy
+Please guess a letter: a
+Oops! You've already guessed that letter: _ _ eeta_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrsuvwxy
+Please guess a letter: a
+Oops! You've already guessed that letter: _ _ eeta_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrsuvwxy
+Please guess a letter: t
+Oops! You've already guessed that letter: _ _ eeta_ 
+-----------------
+You have 7 guesses left.
+Available letters: bcdfghijklmnopqrsuvwxy
+Please guess a letter: h
+Good guess: _ heetah
+-----------------
+You have 7 guesses left.
+Available letters: bcdfgijklmnopqrsuvwxy
+Please guess a letter: c
+Good guess: cheetah
+--------------
+Congratulations, you won!
+None

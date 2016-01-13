@@ -1,0 +1,79 @@
+s = 'hlktlujpoysac'
+Output:
+Number of vowels: 3
+
+s = 'nozabhxlemv'
+Output:
+Number of vowels: 3
+
+s = 'jxgjjoufzribval'
+Output:
+Number of vowels: 4
+
+s = 'ahisuov'
+Output:
+Number of vowels: 4
+
+s = 'euatrvgamwglebrehsgsea'
+Output:
+Number of vowels: 8
+
+s = 'ezakaeedesuj'
+Output:
+Number of vowels: 7
+
+s = 'evlsajjitkcuyl'
+Output:
+Number of vowels: 4
+
+s = 'onzuqeyhuagarkxiazt'
+Output:
+Number of vowels: 8
+
+s = 'cofbxeo'
+Output:
+Number of vowels: 3
+
+s = 'ltvomaduuvopuiauvqvc'
+Output:
+Number of vowels: 9
+
+s = 'hiumijuydjgtahomkauiqbvi'
+Output:
+Number of vowels: 10
+
+s = 'silveenkuazrovcb'
+Output:
+Number of vowels: 6
+
+s = 'oeeuecftjneuaaerg'
+Output:
+Number of vowels: 10
+
+s = 'rbylaoyhfkthweetthcf'
+Output:
+Number of vowels: 4
+
+s = 'fqeioookywudm'
+Output:
+Number of vowels: 6
+
+s = 'mpyoyljobpoaufspb'
+Output:
+Number of vowels: 5
+
+s = 'qjqjtuxpogefayjvxfz'
+Output:
+Number of vowels: 4
+
+s = 'fjnigbsiuydopelswexal'
+Output:
+Number of vowels: 7
+
+s = 'ddjaiiojyrdonbqewalaov'
+Output:
+Number of vowels: 9
+
+s = 'euveafe'
+Output:
+Number of vowels: 5

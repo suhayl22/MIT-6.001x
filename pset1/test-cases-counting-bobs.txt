@@ -1,0 +1,79 @@
+s = 'bobboobbobbroboboboboboboobbobobgbobobqbobobobobel'
+Output:
+Number of times bob occurs is: 15
+
+s = 'bobbwbobbrbobbo'
+Output:
+Number of times bob occurs is: 3
+
+s = 'bobbvujobd'
+Output:
+Number of times bob occurs is: 1
+
+s = 'obcobboobboobbobbobnmiobooobobobybobbb'
+Output:
+Number of times bob occurs is: 5
+
+s = 'bobooboboboobobboobybobobbobbbo'
+Output:
+Number of times bob occurs is: 7
+
+s = 'hbobobbbs'
+Output:
+Number of times bob occurs is: 2
+
+s = 'bobobobboboobobobobbboobboobhs'
+Output:
+Number of times bob occurs is: 7
+
+s = 'jtimehzficsy'
+Output:
+Number of times bob occurs is: 0
+
+s = 'bobobobobobobobobobobobob'
+Output:
+Number of times bob occurs is: 12
+
+s = 'toboojbobooxooboobobo'
+Output:
+Number of times bob occurs is: 2
+
+s = 'sbobbdoboborbwoboouobbobboboobowob'
+Output:
+Number of times bob occurs is: 4
+
+s = 'bnbobobzkoboooobobooobobbobbbom'
+Output:
+Number of times bob occurs is: 5
+
+s = 'hbobbbobbidnbobobobbobbobbbobbbobobtobooqa'
+Output:
+Number of times bob occurs is: 10
+
+s = 'bsbobvbobbbobbejbobnbobbmvbobbbd'
+Output:
+Number of times bob occurs is: 6
+
+s = 'xpbobbobooobbobobuboobobooobobosboobbobobobol'
+Output:
+Number of times bob occurs is: 9
+
+s = 'obnobbobobnkbobbj'
+Output:
+Number of times bob occurs is: 3
+
+s = 'sboobbobobbobobodnobg'
+Output:
+Number of times bob occurs is: 4
+
+s = 'jdgfmoboobobbboobbobboibobob'
+Output:
+Number of times bob occurs is: 4
+
+s = 'boxsobobqjehoboboqbobobdbobbob'
+Output:
+Number of times bob occurs is: 6
+
+s = 'obobobobbobobobpibobobbobobko'
+Output:
+Number of times bob occurs is: 10

@@ -1,0 +1,74 @@
+Test Case 1
+balance = 3329; annualInterestRate = 0.2
+Output:
+Lowest Payment: 310
+
+Test Case 2
+balance = 4773; annualInterestRate = 0.2
+Output:
+Lowest Payment: 440
+
+Test Case 3
+balance = 3926; annualInterestRate = 0.2
+Output:
+Lowest Payment: 360
+
+Randomized Test Case 1
+balance = 342; annualInterestRate = 0.2
+Output:
+Lowest Payment: 40
+
+Randomized Test Case 2
+balance = 477; annualInterestRate = 0.2
+Output:
+Lowest Payment: 50
+
+Randomized Test Case 3
+balance = 408; annualInterestRate = 0.18
+Output:
+Lowest Payment: 40
+
+Randomized Test Case 4
+balance = 256; annualInterestRate = 0.18
+Output:
+Lowest Payment: 30
+
+Randomized Test Case 5
+balance = 4722; annualInterestRate = 0.04
+Output:
+Lowest Payment: 410
+
+Randomized Test Case 6
+balance = 3810; annualInterestRate = 0.15
+Output:
+Lowest Payment: 340
+
+Randomized Test Case 7
+balance = 4309; annualInterestRate = 0.04
+Output:
+Lowest Payment: 370
+
+Randomized Test Case 8
+balance = 3166; annualInterestRate = 0.04
+Output:
+Lowest Payment: 270
+
+Randomized Test Case 9
+balance = 3637; annualInterestRate = 0.2
+Output:
+Lowest Payment: 340
+
+Randomized Test Case 10
+balance = 4807; annualInterestRate = 0.18
+Output:
+Lowest Payment: 440
+
+Randomized Test Case 11
+balance = 4460; annualInterestRate = 0.2
+Output:
+Lowest Payment: 410
+
+Randomized Test Case 12
+balance = 3150; annualInterestRate = 0.15
+Output:
+Lowest Payment: 290
